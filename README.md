@@ -1,6 +1,8 @@
-# Next.js starter
-
-This is my personal configuration of a Next.js project.
+<div style="display:flex;flex-direction:column;align-items:center;">
+  <img src="./public/icon-192x192.png" width="80" style="border-radius: 9999px;" />
+  <h1>Next starter</h1>
+  <p>This is my personal configuration of a Next.js project.</p>
+</div><br><br>
 
 ## Installation
 
